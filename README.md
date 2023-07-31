@@ -39,7 +39,7 @@ py -3.11 -m pip install numpy
 
 ### Lab - 5 == Banker’s Algorithm (Deadlock Avoidance)
  [jupyter File](./bankers_algorithm.ipynb)     <br/>
- [Python File](./same_python_file/bankers_algorithm.py)
+ [Python File](./same_python_file/bankers_algorithm.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative 2](./same_python_file/bankers_algorithm_alternative_2.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative 3](./same_python_file/bankers_algorithm_alternative_3.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative 4](./same_python_file/bankers_algorithm_alternative_4.py)
 
 ### Lab - 5 == Deadlock Detection
  [jupyter File](./inverse_exponential_distribution.ipynb)     <br/>
