@@ -29,15 +29,19 @@ py -3.11 -m pip install numpy
  [jupyter File](./poisson_distribution.ipynb)     <br/>
  [Python File](./same_python_file/poisson_distribution.py)
 
-### Lab - 3 == Unimodal Multimodal Density Curves Normal Distribution Example
+### Lab - 3 == Semaphore Solution in Process-Synchronization (Producer Consumer Problem)
  [jupyter File](./unimodal_multimodal_density_curves_normal_distribution.ipynb)     <br/>
  [Python File](./same_python_file/unimodal_multimodal_density_curves_normal_distribution.py)
 
-### Lab - 4 == Exponential Distribution
+### Lab - 4 == Semaphore Solution in Process-Synchronization (Dining Philosopher Problem)
  [jupyter File](./exponential_distribution.ipynb)     <br/>
  [Python File](./same_python_file/exponential_distribution.py)
 
-### Lab - 5 == Inverse Exponential Distribution Example (Random variates)
+### Lab - 5 == Banker’s Algorithm (Deadlock Avoidance)
+ [jupyter File](./inverse_exponential_distribution.ipynb)     <br/>
+ [Python File](./same_python_file/inverse_exponential_distribution.py)
+
+### Lab - 5 == Deadlock Detection
  [jupyter File](./inverse_exponential_distribution.ipynb)     <br/>
  [Python File](./same_python_file/inverse_exponential_distribution.py)
  
