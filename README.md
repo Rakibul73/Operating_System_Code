@@ -30,16 +30,16 @@ py -3.11 -m pip install numpy
  [Python File](./same_python_file/mutex_lock.py)
 
 ### Lab - 3 == Semaphore Solution in Process-Synchronization (Producer Consumer Problem)
- [jupyter File](./unimodal_multimodal_density_curves_normal_distribution.ipynb)     <br/>
- [Python File](./same_python_file/unimodal_multimodal_density_curves_normal_distribution.py)
+ [jupyter File](./semaphore_producer_consumer.ipynb)     <br/>
+ [Python File](./same_python_file/semaphore_producer_consumer.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative](./same_python_file/semaphore_producer_consumer_alternative.py)
 
 ### Lab - 4 == Semaphore Solution in Process-Synchronization (Dining Philosopher Problem)
  [jupyter File](./exponential_distribution.ipynb)     <br/>
  [Python File](./same_python_file/exponential_distribution.py)
 
 ### Lab - 5 == Banker’s Algorithm (Deadlock Avoidance)
- [jupyter File](./inverse_exponential_distribution.ipynb)     <br/>
- [Python File](./same_python_file/inverse_exponential_distribution.py)
+ [jupyter File](./bankers_algorithm.ipynb)     <br/>
+ [Python File](./same_python_file/bankers_algorithm.py)
 
 ### Lab - 5 == Deadlock Detection
  [jupyter File](./inverse_exponential_distribution.ipynb)     <br/>
