@@ -26,8 +26,8 @@ py -3.11 -m pip install numpy
  [Python File](./same_python_file/peterson_solution.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative](./same_python_file/peterson_solution_alternative.py)
 
 ### Lab - 2 == Mutex Lock (Protect Critical-Sections & Prevent Race-Conditions)
- [jupyter File](./poisson_distribution.ipynb)     <br/>
- [Python File](./same_python_file/poisson_distribution.py)
+ [jupyter File](./mutex_lock.ipynb)     <br/>
+ [Python File](./same_python_file/mutex_lock.py)
 
 ### Lab - 3 == Semaphore Solution in Process-Synchronization (Producer Consumer Problem)
  [jupyter File](./unimodal_multimodal_density_curves_normal_distribution.ipynb)     <br/>
