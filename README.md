@@ -25,7 +25,7 @@ py -3.11 -m pip install numpy
  [jupyter File](./peterson_solution.ipynb)     <br/>
  [Python File](./same_python_file/peterson_solution.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative](./same_python_file/peterson_solution_alternative.py)
 
-### Lab - 2 == Poisson Distribution Example
+### Lab - 2 == Mutex Lock (Protect Critical-Sections & Prevent Race-Conditions)
  [jupyter File](./poisson_distribution.ipynb)     <br/>
  [Python File](./same_python_file/poisson_distribution.py)
 
