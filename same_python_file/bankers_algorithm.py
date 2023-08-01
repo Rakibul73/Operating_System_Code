@@ -63,6 +63,8 @@ class BankersAlgorithm:
 
 # The main function to demonstrate the Banker's algorithm
 if __name__ == "__main__":
+    
+    # case 1
     max_resources = [
         [7, 5, 3],
         [3, 2, 2],
@@ -84,6 +86,31 @@ if __name__ == "__main__":
     banker = BankersAlgorithm(max_resources, allocated_resources, total_resources)
     request = [1, 0, 2]
     process_id = 1
+
+    if banker.is_safe_state(request, process_id):
+        print("Request is safe to be granted.")
+    else:
+        print("Request may lead to a deadlock and cannot be granted.")
+
+
+    # case 2
+    max_resources = [
+        [7, 5, 3],
+        [3, 2, 2],
+        [9, 0, 2],
+    ]
+
+    allocated_resources = [
+        [0, 1, 0],
+        [2, 0, 0],
+        [3, 0, 2],
+    ]
+
+    total_resources = [10, 5, 7]
+
+    banker = BankersAlgorithm(max_resources, allocated_resources, total_resources)
+    request = [5, 0, 0]
+    process_id = 0
 
     if banker.is_safe_state(request, process_id):
         print("Request is safe to be granted.")
