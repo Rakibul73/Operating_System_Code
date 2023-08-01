@@ -42,12 +42,8 @@ py -3.11 -m pip install numpy
  [Python File](./same_python_file/bankers_algorithm.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative 2](./same_python_file/bankers_algorithm_alternative_2.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative 3](./same_python_file/bankers_algorithm_alternative_3.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative 4](./same_python_file/bankers_algorithm_alternative_4.py)
 
 ### Lab - 5 == Deadlock Detection
- [jupyter File](./inverse_exponential_distribution.ipynb)     <br/>
- [Python File](./same_python_file/inverse_exponential_distribution.py)
+ [jupyter File](./deadlock_detection.ipynb)     <br/>
+ [Python File](./same_python_file/deadlock_detection.py)
  
 
-<hr/><hr/><hr/>
-
-### Sample
- [Jupyter File Alternative 2](./Sample.ipynb)  &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File Alternative 3](./Sample.ipynb)  &nbsp;&nbsp; / &nbsp;&nbsp; [Jupyter File](./Sample.ipynb) <br/>
- [Python File Alternative 2](./same_python_file/Sample.py)   &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative 3](./same_python_file/Sample.py)
+<hr/><hr/>
