@@ -43,7 +43,8 @@ py -3.11 -m pip install numpy
 
 ### Lab - 5 == Deadlock Detection
  [jupyter File](./deadlock_detection.ipynb)     <br/>
- [Python File](./same_python_file/deadlock_detection.py)
+ [Python File](./same_python_file/deadlock_detection.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative](./same_python_file/deadlock_detection_alternative.py)
+
  
 
 <hr/><hr/>
