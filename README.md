@@ -34,8 +34,8 @@ py -3.11 -m pip install numpy
  [Python File](./same_python_file/semaphore_producer_consumer.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative](./same_python_file/semaphore_producer_consumer_alternative.py)
 
 ### Lab - 4 == Semaphore Solution in Process-Synchronization (Dining Philosopher Problem)
- [jupyter File](./exponential_distribution.ipynb)     <br/>
- [Python File](./same_python_file/exponential_distribution.py)
+ [jupyter File](./semaphore_dining_philosopher.ipynb)     <br/>
+ [Python File](./same_python_file/semaphore_dining_philosopher.py)
 
 ### Lab - 5 == Banker’s Algorithm (Deadlock Avoidance)
  [jupyter File](./bankers_algorithm.ipynb)     <br/>
