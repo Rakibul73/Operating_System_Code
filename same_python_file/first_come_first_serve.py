@@ -31,8 +31,13 @@ def fcfs_scheduling(processes):
         # Print the details for the current process
         print(f"{pid}\t\t{arrival_time}\t\t{burst_time}\t\t{waiting_time}\t\t{turnaround_time}")
 
+        # Add the print statements for the process execution
+        # print(f"Process {pid} started execution at time {current_time}")
         # Update the current time to the completion time of the current process
         current_time += burst_time
+        # print(f"Process {pid} completed execution at time {current_time}")
+        
+        
 
     # Calculate the average waiting time and turnaround time for all processes
     n = len(processes)
