@@ -18,7 +18,38 @@ py -3.11 -m pip install numpy
 ```
 
 ## Code for Academic Course CIT-322 (Operating System Sessional)
-#### `**********************`
+
+
+<hr/>
+
+## `Mahabub Sir Part`
+<hr/>
+
+### First Come First Serve (FCFS) (With Different Arrival Time)
+ [jupyter File](./first_come_first_serve.ipynb)     <br/>
+ [Python File](./same_python_file/first_come_first_serve.py)
+### Shortest Job First Non-Preemptive (SJF) (With Different Arrival Time)
+ [jupyter File](./shortest_job_first_non_preemptive.ipynb)     <br/>
+ [Python File](./same_python_file/shortest_job_first_non_preemptive.py)
+### Shortest Job First Preemptive (SRT) (With Different Arrival Time)
+ [jupyter File](./shortest_job_first_preemptive.ipynb)     <br/>
+ [Python File](./same_python_file/shortest_job_first_preemptive.py)
+### Priority Primptive (With Different Arrival Time)
+ [jupyter File](./priority_primptive.ipynb)     <br/>
+ [Python File](./same_python_file/priority_primptive.py)
+### Priority Non-Primptive (With Different Arrival Time)
+ [jupyter File](./priority_non_primptive.ipynb)     <br/>
+ [Python File](./same_python_file/priority_non_primptive.py)
+### Round Robin (With Different Arrival Time)
+ [jupyter File](./round_robin.ipynb)     <br/>
+ [Python File](./same_python_file/round_robin.py)
+### Sample
+ [jupyter File](./first_come_first_serve.ipynb)     <br/>
+ [Python File](./same_python_file/first_come_first_serve.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative](./same_python_file/peterson_solution_alternative.py)
+
+<hr/><hr/>
+
+## `Masud Sir Part`
 <hr/>
 
 ### Lab - 1 == Peterson Solution (Producer Consumer Problem)
@@ -47,4 +78,4 @@ py -3.11 -m pip install numpy
 
  
 
-<hr/><hr/>
+<hr/>
