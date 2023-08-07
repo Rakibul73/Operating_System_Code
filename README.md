@@ -32,8 +32,8 @@ py -3.11 -m pip install numpy
  [jupyter File](./shortest_job_first_non_preemptive.ipynb)     <br/>
  [Python File](./same_python_file/shortest_job_first_non_preemptive.py)
 ### Shortest Job First Preemptive (SRT) (With Different Arrival Time)
- [jupyter File](./shortest_job_first_preemptive.ipynb)     <br/>
- [Python File](./same_python_file/shortest_job_first_preemptive.py)
+ [jupyter File](./shortest_job_first_preemptive_SRT.ipynb)     <br/>
+ [Python File](./same_python_file/shortest_job_first_preemptive_SRT.py)
 ### Priority Primptive (With Different Arrival Time)
  [jupyter File](./priority_primptive.ipynb)     <br/>
  [Python File](./same_python_file/priority_primptive.py)
