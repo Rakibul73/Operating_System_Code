@@ -43,7 +43,10 @@ py -3.11 -m pip install numpy
 ### Round Robin (With Different Arrival Time)
  [jupyter File](./round_robin.ipynb)     <br/>
  [Python File](./same_python_file/round_robin.py)
-### Sample
+### FCFS With Concurent Process
+ [jupyter File](./fcfs_with_concurent_process.ipynb)     <br/>
+ [Python File](./same_python_file/fcfs_with_concurent_process.py)
+### sample
  [jupyter File](./first_come_first_serve.ipynb)     <br/>
  [Python File](./same_python_file/first_come_first_serve.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative](./same_python_file/peterson_solution_alternative.py)
 
