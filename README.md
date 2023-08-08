@@ -46,9 +46,7 @@ py -3.11 -m pip install numpy
 ### FCFS With Concurent Process
  [jupyter File](./fcfs_with_concurent_process.ipynb)     <br/>
  [Python File](./same_python_file/fcfs_with_concurent_process.py)
-### sample
- [jupyter File](./first_come_first_serve.ipynb)     <br/>
- [Python File](./same_python_file/first_come_first_serve.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative](./same_python_file/peterson_solution_alternative.py)
+
 
 <hr/><hr/>
 
@@ -75,7 +73,7 @@ py -3.11 -m pip install numpy
  [jupyter File](./bankers_algorithm.ipynb)     <br/>
  [Python File](./same_python_file/bankers_algorithm.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative 2](./same_python_file/bankers_algorithm_alternative_2.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative 3](./same_python_file/bankers_algorithm_alternative_3.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative 4](./same_python_file/bankers_algorithm_alternative_4.py)
 
-### Lab - 5 == Deadlock Detection
+### Lab - 6 == Deadlock Detection
  [jupyter File](./deadlock_detection.ipynb)     <br/>
  [Python File](./same_python_file/deadlock_detection.py) &nbsp;&nbsp; / &nbsp;&nbsp; [Python File Alternative](./same_python_file/deadlock_detection_alternative.py)
 
